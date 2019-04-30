@@ -14,4 +14,8 @@ git clone git@github.com:jianJizz/note.git
 ```
 git remote add note git@github.com:jianJizz/note.git
 ```
-7. 可以删除原来关联的note.git git remote de
+7. 可以删除原来关联的note.git git remote rm origin(关联的远程仓库的别名)
+8. 将本地仓库推送到远程仓库
+```
+
+```
