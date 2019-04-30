@@ -4,4 +4,4 @@
 ```
 git@github.com:jianJizz/note.git
 ```
-3. 将
+3. 将cd到 ~/.ssh 将文件夹下的 
