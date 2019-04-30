@@ -19,4 +19,3 @@ git remote add note git@github.com:jianJizz/note.git
 ```
 git push note master
 ```
-![Snipaste_20190501_014841.png](1)
