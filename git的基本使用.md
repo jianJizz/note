@@ -19,4 +19,4 @@ git remote add note git@github.com:jianJizz/note.git
 ```
 git push note master
 ```
-![title](https://raw.githubusercontent.com/jianJizz/gitnote-images/master/gitnote/2019/05/01/1556648330165-1556648330190.png)
+8.gitnote github图床的使用 按照官网给的步骤
