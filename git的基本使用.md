@@ -19,3 +19,4 @@ git remote add note git@github.com:jianJizz/note.git
 ```
 git push note master
 ```
+![image.png](0)
