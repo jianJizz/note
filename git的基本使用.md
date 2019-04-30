@@ -5,8 +5,9 @@
 ssh-keygen -t rsa -C "17674755974@163.com" 
 ```
 3. 将cd到 ~/.ssh 将文件夹下的 id_rsa.pub 里面的内容拷贝到github的ssh认证里面
-4. 在本地的一个克隆远程仓库
+4. 在本地的一个文件夹下克隆远程仓库
 ```
 git clone git@github.com:jianJizz/note.git
 ```
-5. 这个时候就关联了远程仓库
+5. 这个时候就关联了远程仓库使用git remote -v 可以看到所有关联的远程仓库地址及别名
+6. 关联远程仓库git add remote 
