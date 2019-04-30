@@ -10,4 +10,8 @@ ssh-keygen -t rsa -C "17674755974@163.com"
 git clone git@github.com:jianJizz/note.git
 ```
 5. 这个时候就关联了远程仓库使用git remote -v 可以看到所有关联的远程仓库地址及别名
-6. 关联远程仓库git add remote 
+6. 关联远程仓库
+```
+git remote add note git@github.com:jianJizz/note.git
+```
+7. 可以删除原来关联的note.git git remote de
