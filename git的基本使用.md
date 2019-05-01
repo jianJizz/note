@@ -21,4 +21,9 @@ git push note master
 ```
 9. gitnote github图床的使用 按照官网给的步骤在github上配置 然后截张图复制即可自动上传 在设置里还可以自己选择默认图床
 ![title](https://raw.githubusercontent.com/jianJizz/gitnote-images/master/gitnote/2019/05/01/1556648610629-1556648610631.png)
-10. git 提交代码 git add 
+10. git 提交代码 
+```
+git add . 提交当前目录下的所有到工作区
+git commit -m ‘desc’ 
+```
+11. 
