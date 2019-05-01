@@ -24,6 +24,6 @@ git push note master
 10. git 提交代码 
 ```
 git add . 提交当前目录下的所有到工作区
-git commit -m ‘desc’ 
+git commit -m ‘desc’ 提交代码到git
+git push coding master 提交到远程仓库的master分支
 ```
-11. 
